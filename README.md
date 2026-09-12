@@ -23,4 +23,4 @@
 
 
 ---
-此網站由 Jackson Chang 建立;如有任何問題請 mail 到 [cjs930@gmail.com](mailto:cjs930@gmail.com)
+此網站由 Jackson Chang 維護;如有任何問題請 mail 到 [cjs930@gmail.com](mailto:cjs930@gmail.com)
