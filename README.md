@@ -1,5 +1,5 @@
-# ntust-emba
-115 台科大 EMBA 學習網站
+# 115 台科大 EMBA 學習網站 
+
 ---
 # 課程連結
 * [科技與創新管理](https://cjs930.github.io/Science-Innovation-Management/)
