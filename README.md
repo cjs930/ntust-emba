@@ -7,6 +7,8 @@
 * [資安科技與管理](https://cjs930.github.io/Information-Security-Technology-Management)
 * [研究方法](https://cjs930.github.io/Research-Methods/)
 * [科技法規總論](https://cjs930.github.io/General-Introduction-Science-Technology-Law)
+* [軟體專利](https://cjs930.github.io/Software-patents)
+
 * [修習學術研究倫理教育線上數位課程 (6小時)](https://ethics-s.moe.edu.tw/login/s/)
 
 ---
