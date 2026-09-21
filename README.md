@@ -14,6 +14,7 @@
 ---
 # 相關連結
 * [校務資訊系統入口](https://i.ntust.edu.tw/student)
+   * [查詢成績]([https://www.academic.ntust.edu.tw/p/412-1048-8580.php?Lang=zh-tw](https://ssoam2.ntust.edu.tw/account/login?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3DStuScoreQueryServ%26redirect_uri%3Dhttps%253A%252F%252Fstuinfosys.ntust.edu.tw%252FStuScoreQueryServ%252Fsignin-oidc%26response_type%3Dcode%26scope%3Dopenid%2520profile%2520email%26code_challenge%3DFW6yh6mZN_fU03f0mXhbM-GmVzMkaI_62elFHIQp700%26code_challenge_method%3DS256%26state%3DOpenIdConnect.AuthenticationProperties%253D5KhJgw_6QRhcw-CFAuWMiO9qbunSovGT2KHVMd696K_37n8S6Bnu8_MDesRgG23P4HJA-velPgWMJdm2Bf0d22bg0eqR3lBjWxWkzH_hAYLI1iuvL_g-lpuT-ICxWnUOGjHKty5lwHERBZvQgkzqodAzszNh0qRt7kUJO5dqdtP4YUO3OcYvZJHS7wUqnRGKvZorusm6NuOr9-dQhmlYynvTwwsC7Fu3RsJnWkIiYS2rTxf1ZFDE74rIy9iCrZ_MbQQVZ_iDwXXPiC8TtmrYeqUBBYhjD1yfkyYNW9vs4lfDx4eoCSET9IzRwFKHuT_j2L5K9-k5xAcIZ5GZtqpUQ_a6rsSTiqJ_tMvGZAfJVkLET2lk%26response_mode%3Dform_post%26nonce%3D639255477498483086.NTE3MDA2ODYtYWI5ZC00MGZiLTgyNTMtNjNmZWFmNWQ5MmI0MjEzNzI0YjgtNmIyMy00NTY0LThmMmEtNzJhYTZkYWI0MTQ1%26x-client-SKU%3DID_NET462%26x-client-ver%3D8.13.1.0))
 * [Moodle教學平台](https://moodle2.ntust.edu.tw/)
 * [Zuvio 即時反饋系統](https://irs.zuvio.com.tw/)
 * [資管EMBA115新生通知](https://www.cs.ntust.edu.tw/p/412-1102-10912.php?Lang=zh-tw)
@@ -22,8 +23,6 @@
   * [查詢](https://www.academic.ntust.edu.tw/p/412-1048-8201.php?Lang=zh-tw)
   * [選課](https://courseselection.ntust.edu.tw/)
 * [郵件信箱](https://mail.ntust.edu.tw/cgi-bin/login?index=1)
-
-
 
 ---
 此網站由 Jackson Chang 維護;如有任何問題請 mail 到 [cjs930@gmail.com](mailto:cjs930@gmail.com)
