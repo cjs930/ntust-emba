@@ -18,6 +18,7 @@
 * [Moodle教學平台](https://moodle2.ntust.edu.tw/)
 * [Zuvio 即時反饋系統](https://irs.zuvio.com.tw/)
 * [資管EMBA115新生通知](https://www.cs.ntust.edu.tw/p/412-1102-10912.php?Lang=zh-tw)
+* [招生資訊](https://www.admission.ntust.edu.tw/p/406-1052-151111,r1538.php?Lang=zh-tw)
 * 選課連結:
   * [須知規定](https://www.academic.ntust.edu.tw/p/412-1048-8580.php?Lang=zh-tw)
   * [查詢](https://www.academic.ntust.edu.tw/p/412-1048-8201.php?Lang=zh-tw)
