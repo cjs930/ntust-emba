@@ -24,6 +24,8 @@
   * [查詢](https://www.academic.ntust.edu.tw/p/412-1048-8201.php?Lang=zh-tw)
   * [選課](https://courseselection.ntust.edu.tw/)
 * [郵件信箱](https://mail.ntust.edu.tw/cgi-bin/login?index=1)
+* [臺科大圖書館-三校借書](https://ipass.lib.ntust.edu.tw)
+
 
 ---
 此網站由 Jackson Chang 維護;如有任何問題請 mail 到 [cjs930@gmail.com](mailto:cjs930@gmail.com)
