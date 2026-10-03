@@ -25,6 +25,7 @@
   * [選課](https://courseselection.ntust.edu.tw/)
 * [郵件信箱](https://mail.ntust.edu.tw/cgi-bin/login?index=1)
 * [臺科大圖書館-三校借書](https://ipass.lib.ntust.edu.tw)
+* [資管大尾牙](https://ntust-emba-yearend.mist0226.chatgpt.site/)
 
 
 ---
