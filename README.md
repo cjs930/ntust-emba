@@ -24,6 +24,7 @@
   * [查詢](https://www.academic.ntust.edu.tw/p/412-1048-8201.php?Lang=zh-tw)
   * [選課](https://courseselection.ntust.edu.tw/)
 * [郵件信箱](https://mail.ntust.edu.tw/cgi-bin/login?index=1)
+* [臺科大圖書館](https://library.ntust.edu.tw/p/412-1049-178.php?Lang=zh-tw)
 * [臺科大圖書館-三校借書](https://ipass.lib.ntust.edu.tw)
 * [資管大尾牙](http://tiger-duck.com/)
 
